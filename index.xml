@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to Zhuo's Site on Zhuo Zhang's webpage</title><link>https://zhangzhuo-math.github.io/my-website/</link><description>Recent content in Welcome to Zhuo's Site on Zhuo Zhang's webpage</description><generator>Hugo</generator><language>en-us</language><copyright>Zhuo</copyright><lastBuildDate/><atom:link href="https://zhangzhuo-math.github.io/my-website/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Zhuo Zhang's webpage</title><link>https://zhangzhuo-math.github.io/my-website/</link><description>Recent content in Home on Zhuo Zhang's webpage</description><generator>Hugo</generator><language>en-us</language><copyright>Zhuo</copyright><lastBuildDate>Mon, 04 Nov 2024 12:00:00 +0000</lastBuildDate><atom:link href="https://zhangzhuo-math.github.io/my-website/index.xml" rel="self" type="application/rss+xml"/><item><title>Notes</title><link>https://zhangzhuo-math.github.io/my-website/notes/</link><pubDate>Mon, 04 Nov 2024 12:00:00 +0000</pubDate><guid>https://zhangzhuo-math.github.io/my-website/notes/</guid><description>&lt;p>I have written some expository notes or papers. Feel free to access them here. I hope they are helpful to you:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>The Chebotarev density theorem and Artin L-functions. [&lt;a href="">pdf&lt;/a>]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Profinite groups and infinite Galois correspondence. [pdf]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The smooth Serre-Swan theorem for vector bundles. [pdf]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>A geometric view of bordism homology. This was written for the UChicago REU Summer 2023. [pdf]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Some notes on representation theory. This was created with four other participants of the ICLUE Summer 2022 program on representation theory and combinatorics. [pdf]&lt;/p></description></item></channel></rss>
