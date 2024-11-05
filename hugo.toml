@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://zhangzhuo-math.github.io/my-website/"
 languageCode = "en-us"
 title = "Zhuo Zhang's webpage"
 theme = "cactus"
