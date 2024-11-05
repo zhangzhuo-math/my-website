@@ -12,6 +12,6 @@ draft = false
   The Chebotarev Density Theorem is a generalization of the prime number theorem in arithmetic progressions and plays a fundamental role in algebraic number theory. In this project we leverage the analytic properties of nonabelian Artin L-functions (that satisfy the Artin holomorphy conjecture) to improve the best-known error bounds in this theorem.
 
 
-* *On a Special Metric in Cyclotomic Fields*, with
+* *On a Special Metric in Cyclotomic Fields*, with with K. Saettone, A. Zaharescu.
 
   
