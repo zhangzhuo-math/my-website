@@ -8,7 +8,7 @@
     <div id="logo" style="background-image: url({{ "images/logo.png" | absURL }}); margin-top:-1.2ex"></div>
   {{ end}}
   <div id="title">
-    <h1 style="font-size:4ex;">{{ .Site.Title }}</h1>
+    <h1 style="font-size:4.4ex;">{{ .Site.Title }}</h1>
   </div>
   <div style="margin-bottom: 50px;"> </div>
   </a>
@@ -18,7 +18,7 @@
         <a href="#" aria-label="Menu"><i class="fas fa-bars fa-2x" aria-hidden="true"></i></a>
       </li>
       {{ range .Site.Menus.main }}
-        <li style="font-size:2.8ex"><a href="{{ .URL }}">{{ .Name }}</a></li>
+        <li style="font-size:2.8ex; font-weight:bold"><a href="{{ .URL }}">{{ .Name }}</a></li>
       {{ end }}
     </ul>
   </div>
