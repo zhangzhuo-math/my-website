@@ -21,12 +21,12 @@ weight = 2
 
 [[menu.main]]
 name = "Research"
-url = "/url-to-research"
+url = "/research"
 weight = 3
 
 [[menu.main]]
 name = "Notes"
-url = "/url-to-notes"
+url = "/notes"
 weight = 4
 
 [markup]

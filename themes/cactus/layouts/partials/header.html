@@ -5,19 +5,20 @@
   {{ else if (isset .Site.Params "logo") }}
     <div id="logo" style="background-image: url({{ .Site.Params.logo | absURL }})"></div>
   {{ else }}
-    <div id="logo" style="background-image: url({{ "images/logo.png" | absURL }})"></div>
+    <div id="logo" style="background-image: url({{ "images/logo.png" | absURL }}); margin-top:-1.2ex"></div>
   {{ end}}
   <div id="title">
-    <h1>{{ .Site.Title }}</h1>
+    <h1 style="font-size:4ex;">{{ .Site.Title }}</h1>
   </div>
+  <div style="margin-bottom: 50px;"> </div>
   </a>
   <div id="nav">
-    <ul>
+    <ul style="">
       <li class="icon">
         <a href="#" aria-label="Menu"><i class="fas fa-bars fa-2x" aria-hidden="true"></i></a>
       </li>
       {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        <li style="font-size:2.8ex"><a href="{{ .URL }}">{{ .Name }}</a></li>
       {{ end }}
     </ul>
   </div>
