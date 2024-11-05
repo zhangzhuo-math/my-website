@@ -8,6 +8,9 @@ disqusShortname = "example" # Used when comments is enabled. Cactus will use sit
 
 # summaryLength = 2
 
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
 # Main menu which appears below site header.
 [[menu.main]]
 name = "Home"

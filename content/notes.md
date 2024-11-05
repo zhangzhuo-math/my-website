@@ -5,8 +5,9 @@ date = "2024-11-04T12:00:00Z"
 draft = false
 +++
 
-I have written some expository notes or papers. Feel free to access them here. I hope they are helpful to you:
-* The Chebotarev density theorem and Artin L-functions. [[pdf]()]
+<div style="margin-bottom: -16px;">I have written some expository notes or papers. Feel free to access them here. I hope they are helpful to you:</div>
+
+* The Chebotarev density theorem and Artin L-functions. [[pdf](/my-website/presentation.pdf)]
 
 * Profinite groups and infinite Galois correspondence. [pdf]
 
