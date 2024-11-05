@@ -5,7 +5,7 @@ date = "2024-11-04T12:00:00Z"
 draft = false
 +++
 
-Hello, I’m Zhuo Zhang, a fourth year undergraduate student studying math at the University of Illinois, Urbana Champaign.
+Hello, I'm Zhuo Zhang, a fourth year undergraduate student studying math at the University of Illinois, Urbana Champaign.
 
 I am broadly interested in many areas of math, but I am particularly interested in number theory and topology.
 
