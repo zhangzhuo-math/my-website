@@ -1,0 +1,13 @@
+# Hugo
+/resources/
+/public/
+
+# OS Files
+.DS_Store
+
+# Log Files
+*.log
+
+# Editor Files
+.vscode/
+*.swp
