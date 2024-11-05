@@ -29,10 +29,6 @@ name = "Notes"
 url = "/url-to-notes"
 weight = 4
 
-
-
-
-
 [markup]
   [markup.tableOfContents]
     endLevel = 4
