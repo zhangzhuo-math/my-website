@@ -13,5 +13,8 @@
 &lt;p>A geometric view of bordism homology. This was written for the UChicago REU Summer 2023. [&lt;a href="https://math.uchicago.edu/~may/REU2023/REUPapers/Zhang,Zhuo.pdf">pdf&lt;/a>]&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Some notes on representation theory. This was created with four other participants of the ICLUE Summer 2022 program on representation theory and combinatorics. [&lt;a href="https://ayong.web.illinois.edu/ICLUEreptheory2022/index.html">pdf&lt;/a>]&lt;/p></description></item><item><title>Research</title><link>https://zhangzhuo-math.github.io/my-website/research/</link><pubDate>Mon, 04 Nov 2024 12:00:00 +0000</pubDate><guid>https://zhangzhuo-math.github.io/my-website/research/</guid><description>&lt;p>I have done some research in number theory.&lt;/p>
-&lt;p>&lt;strong>Exercise&lt;/strong>. Help me finish making this webpage.&lt;/p></description></item></channel></rss>
+&lt;p>Some notes on representation theory. This was created with four other participants of the ICLUE Summer 2022 program on representation theory and combinatorics. [&lt;a href="https://ayong.web.illinois.edu/ICLUEreptheory2022/index.html">pdf&lt;/a>]&lt;/p></description></item><item><title>Research</title><link>https://zhangzhuo-math.github.io/my-website/research/</link><pubDate>Mon, 04 Nov 2024 12:00:00 +0000</pubDate><guid>https://zhangzhuo-math.github.io/my-website/research/</guid><description>&lt;div style="margin-bottom: -14px;">I have done some research in number theory. Here are the papers I wrote:&lt;/div>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;em>The Relative Error in the Chebotarev Density Theorem&lt;/em>, with J. Thorner.&lt;/p>
+&lt;p>The Chebotarev Density Theorem is a generalization of the prime number theorem in arithmetic progressions and plays a fundamental role in algebraic number theory. In this project we leverage the analytic properties of nonabelian Artin L-functions (that satisfy the Artin holomorphy conjecture) to improve the best-known error bounds in this theorem.&lt;/p></description></item></channel></rss>
