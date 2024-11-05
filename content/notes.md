@@ -9,7 +9,7 @@ draft = false
 
 * The Chebotarev density theorem and Artin L-functions. [[pdf](/my-website/presentation.pdf)]
 
-* Profinite groups and infinite Galois correspondence. [[pdf](/my-website/profinite.pdf)]
+* Profinite groups and infinite Galois correspondence. [[pdf](/my-website/Profinite.pdf)]
 
 * The smooth Serre-Swan theorem for vector bundles. [[pdf](/my-website/serre-swan.pdf)]
 
