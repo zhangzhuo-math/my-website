@@ -9,7 +9,7 @@ draft = false
 
 * ***The Relative Error in the Chebotarev Density Theorem***, with J. Thorner. [[pdf](/my-website/)]
 
-  The Chebotarev Density Theorem is a generalization of the prime number theorem in arithmetic progressions and plays a fundamental role in algebraic number theory. In this project we leverage the analytic properties of nonabelian Artin L-functions (that satisfy the Artin holomorphy conjecture) to improve the best-known error bounds in this theorem.
+  The Chebotarev Density Theorem is a generalization of the prime number theorem in arithmetic progressions and plays a fundamental role in algebraic number theory. In this project we proved a zero free region and a zero density estimate for nonabelian Artin L-functions (that satisfy the Artin holomorphy conjecture) and used them to improve the best-known error bounds in this theorem.
 
 
 * ***On a Special Metric in Cyclotomic Fields***, with with K. Saettone, A. Zaharescu. [[pdf](https://arxiv.org/abs/2410.22687v1)]
@@ -20,7 +20,7 @@ draft = false
 
   Fermat quotients form an important sequence in number theory. Heath-Brown proved that they are uniformly distributed. In our work we used Heath-Brown's bound, exponential sums, and Erdos-Turan type bounds to establish some further uniform distribution properties of Fermat quotients.
 
-* ***An elementary characterization of the Gauss-Kuzmin distribution in the theory of continued fractions***, with A.J. Hildebrand, S. Singh. [[pdf](/my-website/)]
+* ***An elementary characterization of the Gauss-Kuzmin distribution in the theory of continued fractions***, with A.J. Hildebrand, S. Singh. [[pdf](/my-website/cf-uniqueness-submitted.pdf)]
 
   The Gauss-Kuzmin measure is a continuous probability measure on [0,1] that controls the frequency of any given string of positive integers in the continued fraction expansion of almost all real numbers. In our work, we proved that the Gauss-Kuzmin measure is uniquely characterized by a certain symmetry property. Furthermore, this is a provably optimal characterization. We also proved various facts regarding this characterization.
 
