@@ -19,7 +19,7 @@ weight = 1
 
 [[menu.main]]
 name = "CV"
-url = "/cv.pdf"
+url = "/CV"
 weight = 2
 
 [[menu.main]]

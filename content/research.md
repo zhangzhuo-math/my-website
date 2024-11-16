@@ -5,7 +5,7 @@ date = "2024-11-04T12:00:00Z"
 draft = false
 +++
 
-<div style="margin-bottom: -14px;">I have done some research in number theory. Here are the papers I wrote:</div>
+<div style="margin-bottom: -10px;">I have done some research in number theory. Here are the papers I wrote:</div>
 
 * ***The Relative Error in the Chebotarev Density Theorem***, with J. Thorner. [[pdf](/my-website/)]
 

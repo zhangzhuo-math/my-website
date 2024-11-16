@@ -5,7 +5,7 @@ date = "2024-11-04T12:00:00Z"
 draft = false
 +++
 
-<div style="margin-bottom: -14px;">I have written some expository notes or papers. Feel free to access them here. I hope they are helpful to you:</div>
+<div style="margin-bottom: -10px;">I have written some expository notes or papers. Feel free to access them here. I hope they are helpful to you:</div>
 
 * The Chebotarev density theorem and Artin L-functions. [[pdf](/my-website/presentation.pdf)]
 
