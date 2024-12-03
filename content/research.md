@@ -7,7 +7,7 @@ draft = false
 
 <div style="margin-bottom: -10px;">I have done some research in number theory. Here are the papers that I wrote:</div>
 
-* ***The Relative Error in the Chebotarev Density Theorem***, with J. Thorner. [[pdf](https://arxiv.org/abs/2412.01802)]
+* ***A Uniform Chebotarev Density Theorem with Artin's Holomorphy Conjecture***, with J. Thorner. [[pdf](https://arxiv.org/abs/2412.01802)]
 
   The Chebotarev Density Theorem is a generalization of the prime number theorem in arithmetic progressions and plays an important role in algebraic number theory. In this project we improved the uniformity and the rate of convergence of the asymptotic Chebotarev density theorem. Our proof relies on a new zero free region and a zero density estimate for Artin L-functions that satisfy the Artin holomorphy conjecture. As a corollary, we improved the best-known upper bound on the least norm of a prime ideal with given Artin symbol in Galois extensions of number fields.
 
