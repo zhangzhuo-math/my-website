@@ -7,9 +7,9 @@ draft = false
 
 Hello, I'm Zhuo Zhang, a fourth year undergraduate student studying math at the University of Illinois, Urbana Champaign.
 
-I am broadly interested in many areas of math, but I am particularly interested in number theory and topology.
+I am broadly interested in many areas of math, especially number theory and topology.
 
-* I am particularly interested in its interaction between analytic and algebraic number theory. I really enjoy thinking about L-functions because they have extremely important connections to many areas of math (e.g. elliptic curves, modular forms, representation theory, K-theory etc.).
+* I am interested in the interaction between analytic and algebraic number theory. I really enjoy thinking about L-functions because they have extremely important connections to many areas of math (e.g. elliptic curves, modular forms, representation theory, K-theory etc.).
 
 * On the other hand, I am also fond of thinking about manifolds, vector bundles, curvatures, and their cohomologies, etc. They provide a profound description of the geometry of our world.
 
