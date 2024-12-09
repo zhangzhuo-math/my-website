@@ -9,7 +9,7 @@ Hello, I'm Zhuo Zhang, a fourth year undergraduate student studying math at the 
 
 I am broadly interested in many areas of math, but I am particularly interested in number theory and topology.
 
-* I have spent quite some time on analytic number theory. I am particularly interested in its interaction with algebraic number theory. I really enjoy thinking about L-functions because they have extremely important connections to many areas of math (e.g. elliptic curves, modular forms, representation theory, etc.).
+* I am particularly interested in its interaction between analytic and algebraic number theory. I really enjoy thinking about L-functions because they have extremely important connections to many areas of math (e.g. elliptic curves, modular forms, representation theory, K-theory etc.).
 
 * On the other hand, I am also fond of thinking about manifolds, vector bundles, curvatures, and their cohomologies, etc. They provide a profound description of the geometry of our world.
 
