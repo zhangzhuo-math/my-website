@@ -9,4 +9,4 @@ draft = false
 
 Here is my CV: [[pdf](/my-website/cv.pdf)].
 
-Here is the list of math courses that I took in college: [[pdf](/my-website/courses.pdf)].
+Last updated: Dec 2024.
