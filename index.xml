@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Zhuo Zhang's webpage</title><link>https://zhangzhuo-math.github.io/my-website/</link><description>Recent content in Home on Zhuo Zhang's webpage</description><generator>Hugo</generator><language>en-us</language><copyright>Zhuo</copyright><lastBuildDate>Mon, 04 Nov 2024 12:00:00 +0000</lastBuildDate><atom:link href="https://zhangzhuo-math.github.io/my-website/index.xml" rel="self" type="application/rss+xml"/><item><title>CV</title><link>https://zhangzhuo-math.github.io/my-website/cv/</link><pubDate>Mon, 04 Nov 2024 12:00:00 +0000</pubDate><guid>https://zhangzhuo-math.github.io/my-website/cv/</guid><description>&lt;!-- &lt;div style="margin-bottom: -10px;"> Here is my CV.&lt;/div> -->
-&lt;p>Here is my CV: [&lt;a href="https://zhangzhuo-math.github.io/my-website/cv.pdf">pdf&lt;/a>].&lt;/p>
-&lt;p>Last updated: Dec 2024.&lt;/p></description></item><item><title>Research</title><link>https://zhangzhuo-math.github.io/my-website/research/</link><pubDate>Mon, 04 Nov 2024 12:00:00 +0000</pubDate><guid>https://zhangzhuo-math.github.io/my-website/research/</guid><description>&lt;div style="margin-bottom: -10px;">I have done some research in number theory. Here are the papers that I wrote:&lt;/div>
+&lt;!-- Here is my CV: [[pdf](/my-website/cv.pdf)].
+
+Last updated: Dec 2024. -->
+&lt;p>An updated version will be uploaded later.&lt;/p></description></item><item><title>Research</title><link>https://zhangzhuo-math.github.io/my-website/research/</link><pubDate>Mon, 04 Nov 2024 12:00:00 +0000</pubDate><guid>https://zhangzhuo-math.github.io/my-website/research/</guid><description>&lt;div style="margin-bottom: -10px;">I have done some research in number theory. Here are the papers that I wrote:&lt;/div>
 &lt;ul>
 &lt;li>
 &lt;p>&lt;em>&lt;strong>A Uniform Chebotarev Density Theorem with Artin&amp;rsquo;s Holomorphy Conjecture&lt;/strong>&lt;/em>, with J. Thorner. [&lt;a href="https://arxiv.org/abs/2412.01802">pdf&lt;/a>]&lt;/p>
