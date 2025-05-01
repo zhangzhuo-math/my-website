@@ -16,11 +16,11 @@ draft = false
 
   In our work, we introduced a special metric in the cyclotomic fields. We proved a number of good properties of this metric, such as invariance under the Galois group, as well as an analog of Krasner's lemma in algebraic number theory. Finally, we proved that almost all points in the cyclotomic field are almost equi-distanced from each other under this metric.
 
-* ***Pattern formation statistics on Fermat quotients***, with C. Cobeli, A. Zaharescu. [link will come soon]
+* ***Pattern formation statistics on Fermat quotients***, with C. Cobeli, A. Zaharescu. [link will come later]
 
   Fermat quotients form an important sequence in number theory. Heath-Brown proved that they are uniformly distributed. In our work we used Heath-Brown's bound, exponential sums, and Erdos-Turan type bounds to establish some further uniform distribution properties of Fermat quotients.
 
-* ***An elementary characterization of the Gauss-Kuzmin distribution in the theory of continued fractions***, with A.J. Hildebrand, S. Singh. [link will come soon]
+* ***An elementary characterization of the Gauss-Kuzmin distribution in the theory of continued fractions***, with A.J. Hildebrand, S. Singh. [link will come later]
 
   The Gauss-Kuzmin measure is a continuous probability measure on [0,1] that controls the frequency of any given string of positive integers in the continued fraction expansion of almost all real numbers. In our work, we proved that the Gauss-Kuzmin measure is uniquely characterized by a certain symmetry property. Furthermore, this is a provably optimal characterization. We also proved various facts regarding this characterization.
 
