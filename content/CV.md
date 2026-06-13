@@ -7,6 +7,6 @@ draft = false
 
 <!-- <div style="margin-bottom: -10px;"> Here is my CV.</div> -->
 
-Here is my CV: [[pdf](/my-website/CV_graduate.pdf)].
+Here is my CV: [[pdf](/my-website/cv.pdf)].
 
 Last updated: May 2026.
