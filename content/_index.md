@@ -7,4 +7,4 @@ draft = false
 
 Hello, I'm Zhuo Zhang. I am a first year Math PhD student at Stanford University.
 
-I am broadly interested in many areas of math, especially number theory and topology.
+I am broadly interested in many areas of math, especially number theory.

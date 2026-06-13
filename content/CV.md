@@ -7,8 +7,6 @@ draft = false
 
 <!-- <div style="margin-bottom: -10px;"> Here is my CV.</div> -->
 
-<!-- Here is my CV: [[pdf](/my-website/cv.pdf)].
+Here is my CV: [[pdf](/my-website/CV_graduate.pdf)].
 
-Last updated: Dec 2024. -->
-
-An updated version will be uploaded later.
+Last updated: May 2026.
