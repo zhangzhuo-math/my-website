@@ -1,0 +1,32 @@
+.content .research-content,
+.content .research-content p {
+  -webkit-hyphens: none;
+  hyphens: none;
+  overflow-wrap: normal;
+  word-break: normal;
+}
+
+.content .paper-links {
+  display: block;
+  margin-top: 0.25rem;
+  white-space: nowrap;
+}
+
+.content .paper-links a {
+  color: #075bbb;
+  background-image: none;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.content .paper-links a:hover,
+.content .paper-links a:focus-visible {
+  color: #9b1c31;
+  background-image: none;
+}
+
+.content .paper-links a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+  border-radius: 2px;
+}
